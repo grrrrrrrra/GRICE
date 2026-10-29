@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+*.log
+nohup.out
+.DS_Store
+.idea/
+.vscode/
+
+*.sqlite
+
+out/*
+!out/.gitkeep
+!out/dev_groups.txt
